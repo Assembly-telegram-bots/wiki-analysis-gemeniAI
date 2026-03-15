@@ -1,4 +1,4 @@
-name: AI Wiki Analysis
+name: AI Wiki Analysis solo
 
 on:
   workflow_dispatch:
